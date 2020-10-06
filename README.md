@@ -1,11 +1,12 @@
 Welcome to my GitHub place~!~!
 
-Language
+Skill
 - C/C++ (beginner)
 - Python (beginner)
 - JAVA (beginner)
 - JavaScript (beginner)
 - mySQL (beginner)
+- ReactJS (beginner)
 ...
 
 How to reach me
