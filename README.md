@@ -5,12 +5,12 @@ Skill
 - Python (beginner)
 - JAVA (beginner)
 - JavaScript (beginner)
-- mySQL (beginner)
+- Oracle (beginner)
 - ReactJS (beginner)
 ...
 
 How to reach me
-- instagram: njr_dhealr
+- instagram: k__d___g___
 - facebook: https://www.facebook.com/profile.php?id=100004343913427 (Just for chat!)
 - e-mail: wge3142@gmail.com / wge3142@naver.com
 
