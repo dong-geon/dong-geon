@@ -3,10 +3,11 @@ Welcome to my GitHub place~!~!
 Skill
 - C/C++ (beginner)
 - Python (beginner)
-- JAVA (beginner)
+- JAVA (Intermediate)
 - JavaScript (beginner)
 - Oracle (beginner)
 - ReactJS (beginner)
+- Spring (beginner)
 ...
 
 How to reach me
